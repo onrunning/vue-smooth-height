@@ -35,7 +35,7 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
-    "parse-css-transition": "0.0.1"
+    "parse-css-transition": "onrunning/parse-css-transition#9206b0a1e4718c28ebb12283105420b391616925"
   },
   "peerDependencies": {
     "vue": ">=2.x.x"
